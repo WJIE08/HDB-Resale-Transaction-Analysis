@@ -5,4 +5,4 @@
 #Data modelling - refer to Modelling Jupyter Notebook
 
 
-#Data visualsiation - refer to Tableau Workbook
+#Data visualisation - refer to Tableau Workbook
